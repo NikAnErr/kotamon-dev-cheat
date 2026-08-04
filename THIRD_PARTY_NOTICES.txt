@@ -1,0 +1,11 @@
+Kotamon Dev Cheat bundles BepInEx 6.0.0-be.781 for IL2CPP.
+
+BepInEx is copyright its contributors and is distributed under LGPL-2.1.
+Project and license information: https://github.com/BepInEx/BepInEx
+
+The bundled BepInEx.Unity.IL2CPP.dll contains a compatibility adjustment for
+Unity 6000.4.1. The corresponding transformation source is included in this
+repository as patch-bepinex-load-order.ps1. The generated Unity interop assembly
+compatibility adjustment is documented in patch-unity6-interop.ps1.
+
+The game, its assets, and executable are not included in this installer.
