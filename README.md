@@ -7,7 +7,7 @@
 
 An educational reverse-engineering and defensive security project for **KOTAMON**. It demonstrates how exposed client-side state can be inspected and modified—and documents what a production game should validate or keep authoritative.
 
-> This repository is focused only on the game **KOTAMON**. It does not contain the game, its assets, or instructions for bypassing third-party anti-cheat systems.
+> The repository does not contain the game, its resources, or instructions for bypassing third-party anti-cheat systems.
 
 ## Features
 
