@@ -2,7 +2,7 @@
 
 ## v0.2.5
 
-First public portfolio release.
+First public release.
 
 ### Plugin
 
