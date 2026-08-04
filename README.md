@@ -1,4 +1,4 @@
-# Kotamon Dev Cheat
+# Kotamon Dev Cheese
 
 ![Version](https://img.shields.io/badge/version-0.2.5-18a6b8)
 ![Unity](https://img.shields.io/badge/Unity-6000.4.1f1-black)
