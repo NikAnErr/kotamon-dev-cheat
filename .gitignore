@@ -1,0 +1,35 @@
+# Build outputs
+bin/
+release/
+analysis/
+obj/
+
+# IDE and user files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userprefs
+
+# Runtime and generated IL2CPP artifacts
+BepInEx/
+dotnet/
+interop/
+unity-libs/
+*.dll
+*.exe
+*.pdb
+*.db
+*.zip
+
+# Local backups, logs, and configuration
+*.log
+*.backup
+*.kotamon-backup
+*.kotamon-original
+KotamonDevCheat.install
+local.kotamon.devcheat.cfg
+
+# OS files
+Thumbs.db
+.DS_Store
